@@ -1,4 +1,4 @@
-# IG Kyrgyz Post Generator (n8n)
+# IG Post Generator (n8n)
 
 An n8n workflow that writes a daily Instagram caption in **Kyrgyz** for my early years education page. Every morning it takes the next topic from a Google Sheet, asks Google Gemini to write a short, warm post for parents of young children, and writes the result back to the sheet, ready for me to review and publish.
 
